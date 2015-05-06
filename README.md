@@ -24,3 +24,9 @@ The Cloud9 IDE team
 
 Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
 To watch some training videos, visit http://www.youtube.com/user/c9ide
+
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:solankepl/kiwijsex.git
+git push -u origin master
